@@ -1,10 +1,10 @@
 import React from 'react';
-import 'Header.css';
+import './Header.css';
 
 function Header() {
     return (
         <div className="header">
-            <img className="header_logo" src="http://pngimg.com/uploads/amazon/amazon_PNG1.png"></img>
+            <img className="header_logo" src="https://pngimg.com/uploads/amazon/amazon_PNG11.png"></img>
             <div className="header_search">
                 <input className="searchInput" type="text" />
                 {/*logo*/}
