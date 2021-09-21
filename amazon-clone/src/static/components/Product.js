@@ -1,8 +1,8 @@
 import React from 'react';
-import "../css/Product.css";
+import '../css/Product.css';
 function Product() {
     return (
-        <div classname="product">
+        <div className="product">
             <div className="product_info">
                 <p>the lean startup</p>
                 <p className="product_price">
