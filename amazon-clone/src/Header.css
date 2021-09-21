@@ -37,6 +37,13 @@
   margin-right: 10px;
   color: white;
 }
+.header_option_line_one {
+  font-size: 10px;
+}
+.header_option_line_two {
+  font-size: 13px;
+  font-weight: 800;
+}
 .header_nav {
   display: flex;
   justify-content: space-evenly;
