@@ -48,3 +48,12 @@
   display: flex;
   justify-content: space-evenly;
 }
+.header_option_basket {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+.header_basket_count {
+  margin-left: 10px;
+  margin-right: 10px;
+}
