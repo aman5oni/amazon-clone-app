@@ -6,7 +6,7 @@ function Header() {
         <div className="header">
             <img className="header_logo" src="https://pngimg.com/uploads/amazon/amazon_PNG11.png"></img>
             <div className="header_search">
-                <input className="searchInput" type="text" />
+                <input className="header_searchInput" type="text" />
                 <SearchIcon className="header_searchIcon" />
             </div>
             <div className="header_nav">
